@@ -152,3 +152,9 @@ p{
     padding: 0.6%;
     padding-bottom: 2%;
 }
+
+@media (max-width: 500px) {
+    #pricing {
+        padding: 0 40px;
+    }
+}
