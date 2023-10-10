@@ -1,6 +1,6 @@
 # Tindog
 
-Dating side for our beloved pets.
+Dating site for our beloved pets.
 
 ## Tech Stack
 
